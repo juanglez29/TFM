@@ -1,0 +1,30 @@
+{
+    "os": "macOS-12.0.1-arm64-arm-64bit",
+    "python": "3.11.7",
+    "heartbeatAt": "2024-03-25T17:49:30.959992",
+    "startedAt": "2024-03-25T17:49:30.351462",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "MacBook-Pro-de-Juan.local",
+    "username": "juan",
+    "executable": "/Users/juan/miniconda3/envs/master/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 297.3417854309082
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}
